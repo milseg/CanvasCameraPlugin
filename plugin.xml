@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
 
-<plugin id="com.virtuoworks.cordova-plugin-canvascamera"
+<plugin id="com.milseg.cordova-plugin-canvascamera"
         version="1.1.5" xmlns="http://apache.org/cordova/ns/plugins/1.0"
         xmlns:android="http://schemas.android.com/apk/res/android">
 
     <name>Canvas Camera</name>
 
     <description>Canvas Camera plug-in for Android and iOS.</description>
-    <repo>https://github.com/VirtuoWorks/CanvasCameraPlugin.git</repo>
+    <repo>https://github.com/milseg/CanvasCameraPlugin.git</repo>
     <keywords>camera, canvas, canvas camera, cordova-android, cordova-ios, cordova</keywords>
     <license>MIT</license>
-    <author>VirtuoWorks</author>
+    <author>Milseg</author>
 
     <dependency id="cordova-plugin-compat" version="^1.2.0" />
 
